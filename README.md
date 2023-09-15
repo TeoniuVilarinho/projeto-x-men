@@ -7,11 +7,11 @@ Projeto criado na Semana do Zero ao Programador contratado.
 ## Prints
 Versão desktop
 
-!(./design/projeto-x-men-desktop.png)
+(./design/projeto-x-men-desktop.png)
 
 Versão mobile
 
-!(./design/projeto-x-men-mobile.png)
+(./design/projeto-x-men-mobile.png)
 
 ## Link
 
