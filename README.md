@@ -15,4 +15,4 @@ Versão mobile
 
 ## Link
 
-- Live Site: (https://teoniuvilarinho.github.io/huddle-landing-page)
+- Live Site: (https://teoniuvilarinho.github.io/projeto-x-men/)
