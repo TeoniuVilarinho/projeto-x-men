@@ -7,12 +7,12 @@
 ## Prints
 - Versão desktop
 
-<img src="./design/projeto-x-men-desktop.png">
+<img src="./design/projeto-one-piece-desktop.png">
 
 - Versão mobile
 
-<img src="./design/projeto-x-men-mobile.png">
+<img src="./design/projeto-one-piece-mobile.png">
 
 ## Link
 
-- Live Site: (https://teoniuvilarinho.github.io/projeto-x-men/)
+- Live Site: (https://teoniuvilarinho.github.io/projeto-one-piece/)
